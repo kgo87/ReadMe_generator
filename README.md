@@ -1,4 +1,4 @@
-# ReadMe Generator [![MIT license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://lbesson.mit-license.org/)
+# ReadMe Generator [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 ## Table of Contents
 1. [ Description ](#desc)
@@ -17,7 +17,7 @@ This allows the project creator to devote more time to working on the project.
 The high-quality README should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions. 
 
 ## 3. Link to screen recording<a name="link"></a>
-Screen recording capturing how the file is generated: [![Watch the video](./media/screen_video.mov)](./media/screen_video.mov) 
+Screen recording capturing how the file is generated: ![](./media/screen_video.gif) 
 
 ## 4. Structure<a name="structure"></a>
 The folder contains  *.json* pacakage, node_modules, two *.js* files, finished product and supplemental media.
